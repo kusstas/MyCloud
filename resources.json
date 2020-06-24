@@ -1,0 +1,19 @@
+{
+    "common": {
+        "assets": {
+            "url": "https://www.youtube.com/watch?v=A12z7AfNw-o",
+            "version": 1
+        },
+        "sounds": {
+            "url": "https://www.youtube.com/watch?v=A12z7AfNw-o",
+            "version": 1
+        }
+    },
+    "scenes": {
+        "black-mirror": {
+            "startUrl": "qrc:/main.qml",
+            "url": "https://doc.qt.io/qt-5/resources.html",
+            "version": 1
+        }
+    }
+}
