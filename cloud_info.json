@@ -1,0 +1,12 @@
+ {
+    "files" : {
+        "scenes.json" : {
+            "url" : "https://raw.githubusercontent.com/kusstas/MyCloud/master/scenes.json",
+            "modified" : "26.06.2020 19:42:10.111"
+        }, 
+        "common/assets.rcc" : {
+            "url" : "https://raw.githubusercontent.com/kusstas/MyCloud/master/assets.rcc",
+            "modified" : "26.06.2020 19:42:10.111"
+        }
+    }
+}
